@@ -3,6 +3,4 @@ Cold and dry, but is my favorite colour.
 The two moons may be a problem for the wolverine.
 
 But the mummy will appreaciate the the lack of humidity.
-
-This was added by Dev C
-
+We removed the conflict on this line.
